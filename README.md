@@ -7,3 +7,7 @@ I am also in a process of learning and really interested in the competitive prog
 
 IT IS RECOMMENDED THAT YOU SHOULD TRY YOUR BEST TO SOLVE THE PROBLEM BY YOURSELF AND THEN OPEN UP THE SOLUTION.    
 This repo is open for pull requests so if anyone want to share their code just make a PR.
+
+Try to understand the Code and the logic applied in solving the question. 
+
+Happy Coding !! :D
