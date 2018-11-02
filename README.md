@@ -9,5 +9,6 @@ IT IS RECOMMENDED THAT YOU SHOULD TRY YOUR BEST TO SOLVE THE PROBLEM BY YOURSELF
 This repo is open for pull requests so if anyone want to share their code just make a PR.
 
 Try to understand the Code and the logic applied in solving the question. 
+Mostly Problems are solved in C++, C ans some in python.
 
 Happy Coding !! :D
