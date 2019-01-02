@@ -24,7 +24,7 @@ def queensAttack(n, k, r_q, c_q, obstacles):
                 if o[0]>r_q: lu = min(lu, c_q-1-o[1])
                 else: ld = min(ld, c_q-1-o[1])
                 
-    return u + d + r + l + ru + rd + lu + ld
+    return u + d + r + ru + l + rd + lu + ld
 
 if __name__=='__main__':
        n,k=input().split(' ')
