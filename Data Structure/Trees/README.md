@@ -1,6 +1,6 @@
 ### Trees Data Structure Programming Solutions 
 
-This folder contains the solutions to the problems of DP from Hackerrank 
+This folder contains the solutions to the problems of Trees from Hackerrank 
 
 |S.no|Problems        |Solution File                  |Complexity                   | Difficulty   |
 |----|----------------|-------------------------------|-----------------------------|--------------|
