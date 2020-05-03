@@ -1,4 +1,4 @@
-### Dynamic Programming Solutions 
+### Bit-Manipulation Programming Solutions 
 
 This folder contains the solutions to the problems of DP from Hackerrank 
 
@@ -10,3 +10,4 @@ This folder contains the solutions to the problems of DP from Hackerrank
 |4.  |[Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem)|[Solution in C++](https://github.com/soumilk/HackerRank_Programs/blob/master/Algorithms/09-Bit%20Manipulation/04-Flipping%20bits.cpp)|  | Easy|
 |5.  |[Sansa and XOR](https://www.hackerrank.com/challenges/sansa-and-xor/problem)|[Solution in C++](https://github.com/soumilk/HackerRank_Programs/blob/master/Algorithms/09-Bit%20Manipulation/05-Sansa%20and%20XOR.cpp)|  | Experienced|
 |6.  |[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem) | [Solution in C++](https://github.com/soumilk/HackerRank_Programs/blob/master/Algorithms/09-Bit%20Manipulation/06-%20Lonely%20Integer.cpp)| | Easy |
+|7.  |[Counter game](https://www.hackerrank.com/challenges/counter-game/problem)|[Solution in C++](https://github.com/soumilk/HackerRank_Programs/blob/master/Algorithms/09-Bit%20Manipulation/07-%20Counter%20game.cpp)| |Medium|
